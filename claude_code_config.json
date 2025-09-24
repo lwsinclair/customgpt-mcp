@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "customgpt-server": {
+      "command": "/Users/zriyansh/Desktop/Projects/customgpt/customgpt-mcp/venv/bin/python",
+      "args": ["server.py"],
+      "cwd": "/Users/zriyansh/Desktop/Projects/customgpt/customgpt-mcp",
+      "env": {
+        "PYTHONPATH": "/Users/zriyansh/Desktop/Projects/customgpt/customgpt-mcp",
+        "CUSTOMGPT_API_BASE": "https://app.customgpt.ai",
+        "CUSTOMGPT_API_KEY": "8238|K6I51ucYqz2pJp4v5p0Pg0VmbibDhc0ISi7ebeco62f9c0c6"
+      }
+    }
+  }
+}
