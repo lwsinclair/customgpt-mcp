@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zriyansh-customgpt-mcp-badge.png)](https://mseep.ai/app/zriyansh-customgpt-mcp)
+
 # CustomGPT MCP Server 🤖
 
 A **full-featured** Model Context Protocol (MCP) server built with **FastMCP** that provides seamless access to CustomGPT.ai APIs. Interact with your CustomGPT agents directly through Claude Code, Claude Web, and any MCP-compatible client.
